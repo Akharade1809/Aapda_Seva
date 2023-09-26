@@ -19,7 +19,7 @@ AapDaSeva is a multi-purpose service hub that connects users with local agencies
 - _Real-time Chat_: Communicate with agencies and other users via real-time chat.
 - _Emergency SOS_: Access emergency assistance with your GPS location.
 - _Data Security_: Data is encrypted and secured to protect user privacy.
-- _Multi-modes_: Nessaary information is availble to users even when there in no internet connectivity.
+- _Multi-modes_: Necessary information is availble to users even when there in no internet connectivity.
 
 
 
